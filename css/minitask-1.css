@@ -8,12 +8,12 @@ body {
     position: relative;
     display: inline-block;
     :nth-child(1) {
-        padding: 4px 36px;
+        padding: 0.5rem;
     }
 }
 #togglePassword {
     position: absolute;
-    right: 10px;
+    right: 5px;
     top: 50%;
     transform: translateY(-50%);
     cursor: pointer;
